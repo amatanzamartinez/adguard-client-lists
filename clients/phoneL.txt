@@ -1,4 +1,4 @@
-@client[PCL]||facebook.com^
+@client:PCL||facebook.com^
 @client[PCL]||www.facebook.com^
 @client[PCL]||instagram.com^
 @client[PCL]||www.instagram.com^
