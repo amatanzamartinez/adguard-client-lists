@@ -1,29 +1,25 @@
-@client:PCL||facebook.com^
-@client[PCL]||www.facebook.com^
-@client[PCL]||instagram.com^
-@client[PCL]||www.instagram.com^
-@client[PCL]||twitter.com^
-@client[PCL]||www.twitter.com^
-@client[PCL]||t.co^
-@client[PCL]||linkedin.com^
-@client[PCL]||www.linkedin.com^
-@client[PCL]||snapchat.com^
-@client[PCL]||www.snapchat.com^
-@client[PCL]||tiktok.com^
-@client[PCL]||www.tiktok.com^
-@client[PCL]||pinterest.com^
-@client[PCL]||www.pinterest.com^
-@client[PCL]||reddit.com^
-@client[PCL]||www.reddit.com^
-@client[PCL]||tumblr.com^
-@client[PCL]||www.tumblr.com^
-@client[PCL]||vk.com^
-@client[PCL]||www.vk.com^
-@client[PCL]||wechat.com^
-@client[PCL]||www.wechat.com^
-@client[PCL]||line.me^
-@client[PCL]||www.line.me^
-@client[PCL]||discord.com^
-@client[PCL]||www.discord.com^
-@client[PCL]||threads.net^
-@client[PCL]||www.threads.net^
+# Bloqueo de redes sociales para el cliente "PCL" (IP: 192.168.1.79)
+192.168.1.79 block facebook.com
+192.168.1.79 block www.facebook.com
+192.168.1.79 block fbcdn.net
+192.168.1.79 block instagram.com
+192.168.1.79 block www.instagram.com
+192.168.1.79 block twitter.com
+192.168.1.79 block www.twitter.com
+192.168.1.79 block t.co
+192.168.1.79 block youtube.com
+192.168.1.79 block www.youtube.com
+192.168.1.79 block snapchat.com
+192.168.1.79 block www.snapchat.com
+192.168.1.79 block tiktok.com
+192.168.1.79 block www.tiktok.com
+192.168.1.79 block pinterest.com
+192.168.1.79 block www.pinterest.com
+192.168.1.79 block linkedin.com
+192.168.1.79 block www.linkedin.com
+192.168.1.79 block reddit.com
+192.168.1.79 block www.reddit.com
+192.168.1.79 block vk.com
+192.168.1.79 block www.vk.com
+192.168.1.79 block tumblr.com
+192.168.1.79 block www.tumblr.com
