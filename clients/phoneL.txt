@@ -23,3 +23,5 @@
 192.168.1.79 ||www.vk.com^
 192.168.1.79 ||tumblr.com^
 192.168.1.79 ||www.tumblr.com^
+192.168.1.79 ||eldiariomontanes.es^
+192.168.1.79 ||www.eldiariomontanes.es^
