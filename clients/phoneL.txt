@@ -1,25 +1,25 @@
-# Bloqueo de redes sociales para el cliente "PCL" (IP: 192.168.1.79)
-192.168.1.79 block facebook.com
-192.168.1.79 block www.facebook.com
-192.168.1.79 block fbcdn.net
-192.168.1.79 block instagram.com
-192.168.1.79 block www.instagram.com
-192.168.1.79 block twitter.com
-192.168.1.79 block www.twitter.com
-192.168.1.79 block t.co
-192.168.1.79 block youtube.com
-192.168.1.79 block www.youtube.com
-192.168.1.79 block snapchat.com
-192.168.1.79 block www.snapchat.com
-192.168.1.79 block tiktok.com
-192.168.1.79 block www.tiktok.com
-192.168.1.79 block pinterest.com
-192.168.1.79 block www.pinterest.com
-192.168.1.79 block linkedin.com
-192.168.1.79 block www.linkedin.com
-192.168.1.79 block reddit.com
-192.168.1.79 block www.reddit.com
-192.168.1.79 block vk.com
-192.168.1.79 block www.vk.com
-192.168.1.79 block tumblr.com
-192.168.1.79 block www.tumblr.com
+# Bloqueo de redes sociales solo para la IP 192.168.1.79
+192.168.1.79 ||facebook.com^
+192.168.1.79 ||www.facebook.com^
+192.168.1.79 ||fbcdn.net^
+192.168.1.79 ||instagram.com^
+192.168.1.79 ||www.instagram.com^
+192.168.1.79 ||twitter.com^
+192.168.1.79 ||www.twitter.com^
+192.168.1.79 ||t.co^
+192.168.1.79 ||youtube.com^
+192.168.1.79 ||www.youtube.com^
+192.168.1.79 ||snapchat.com^
+192.168.1.79 ||www.snapchat.com^
+192.168.1.79 ||tiktok.com^
+192.168.1.79 ||www.tiktok.com^
+192.168.1.79 ||pinterest.com^
+192.168.1.79 ||www.pinterest.com^
+192.168.1.79 ||linkedin.com^
+192.168.1.79 ||www.linkedin.com^
+192.168.1.79 ||reddit.com^
+192.168.1.79 ||www.reddit.com^
+192.168.1.79 ||vk.com^
+192.168.1.79 ||www.vk.com^
+192.168.1.79 ||tumblr.com^
+192.168.1.79 ||www.tumblr.com^
